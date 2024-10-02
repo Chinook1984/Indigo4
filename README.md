@@ -1,1 +1,1 @@
-# Indigo4
+# Indigo

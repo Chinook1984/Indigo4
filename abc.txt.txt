@@ -1,0 +1,4 @@
+indigo 4에서 4제거 파일저장
+git add .
+git commit -m "변경파일 수정내용"
+git push
